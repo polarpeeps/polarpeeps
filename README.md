@@ -2,10 +2,6 @@
 
 ### Software Engineer | Full Stack Developer | .NET & Data Science Enthusiast
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=polarpeeps&label=Profile views&color=0e75b6&style=flat" alt="polarpeeps" /> </p>
-
-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polarpeeps" alt="polarpeeps" /></a> </p>
-
 * 🔭 I'm currently working on **backend optimization and frontend architecture at Landis+Gyr ** using **ASP.NET Core**, **Angular**, and **MongoDB**.
 * 👯 I'm looking to collaborate on **AI/ML projects**
 * 🤝 I'm looking for help with **innovative full stack development**
