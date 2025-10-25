@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full Stack Developer | .NET & Data Science Enthusiast
 
-* 🔭 I'm currently working on **backend optimization and frontend architecture at Landis+Gyr ** using **ASP.NET Core**, **Angular**, and **MongoDB**.
+* 🔭 I'm currently working on **backend optimization and frontend architecture at Landis+Gyr** using **ASP.NET Core**, **Angular**, and **MongoDB**.
 * 👯 I'm looking to collaborate on **AI/ML projects**
 * 🤝 I'm looking for help with **innovative full stack development**
 * 💬 Ask me about **.NET Core, Angular, MongoDB, REST APIs, or full-stack performance tuning**
