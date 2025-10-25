@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br> I'm <b>Nabeel Hasan Rizvi</b> from <b>Noida, India</b>.</p>
+<p>Welcome to my page! <br> I'm <b>Nabeel Hasan Rizvi</b> from <b>New Delhi, India</b>.</p>
 <p>I'm a <b>Software Engineer</b> at <b>Landis+Gyr</b> (via Genius Consultants), passionate about building high-performance web applications using <b>.NET</b> and <b>Angular</b>.<br>
 I specialize in optimizing APIs, designing efficient backend systems, and creating interactive dashboards that improve productivity.<br>
 I enjoy learning new frameworks, designing clean UIs, and exploring modern cloud technologies.</p>
