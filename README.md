@@ -1,4 +1,4 @@
-# Hi 👋, I'm NABEEL
+# Hi, I'm NABEEL
 
 ### Software Engineer | Full Stack Developer | .NET & Data Science Enthusiast
 
