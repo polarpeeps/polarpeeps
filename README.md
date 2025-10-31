@@ -49,4 +49,4 @@ Amity University, Noida, Uttar Pradesh<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polarpeeps&show_icons=true&locale=en&layout=compact" alt="polarpeeps" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polarpeeps&show_icons=true&locale=en" alt="polarpeeps" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polarpeeps&" alt="polarpeeps" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polarpeeps&" alt="polarpeeps" /></p> -->
